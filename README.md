@@ -113,7 +113,7 @@ The following papers/articles/slides can help you to understand the general desi
 * [Cassandra Introduction Features](http://www.slideshare.net/planetcassandra/cassandra-introduction-features-30103666)
 * [Introduction to HBase](http://www.slideshare.net/alexbaranau/intro-to-hbase)
 * [Introduction to MongoDB](http://www.slideshare.net/mdirolf/introduction-to-mongodb)
-* [Introduction to Redis](http://www.slideshare.net/dvirsky/introduction-to-redis)
+* [Introduction to Redis](http://www.slideshare.net/dvirsky/introduction-to-redis) [X]
 * [Storm](http://www.slideshare.net/previa/storm-16094009)
 * [Introduction to Zookeeper](http://www.slideshare.net/sauravhaloi/introduction-to-apache-zookeeper)
 * [Kafka](http://www.slideshare.net/mumrah/kafka-talk-tri-hug)
