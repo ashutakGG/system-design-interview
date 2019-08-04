@@ -117,7 +117,7 @@ The following papers/articles/slides can help you to understand the general desi
 * [Storm](http://www.slideshare.net/previa/storm-16094009)
 * [Introduction to Zookeeper](http://www.slideshare.net/sauravhaloi/introduction-to-apache-zookeeper)
 * [Kafka](http://www.slideshare.net/mumrah/kafka-talk-tri-hug)
-* [YouTube Architecture](http://highscalability.com/youtube-architecture)
+* [YouTube Architecture](http://highscalability.com/youtube-architecture) [X]
 * [Scaling Pinterest](http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html)
 * [Google Architecture](http://highscalability.com/google-architecture)
 * [Scaling Twitter](http://highscalability.com/scaling-twitter-making-twitter-10000-percent-faster)
